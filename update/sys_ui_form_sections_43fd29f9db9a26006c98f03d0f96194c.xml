@@ -11,7 +11,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_73717_snow_demo_tasks" name="x_73717_snow_demo_tasks" sys_domain="global" view="Default view">43fd29f9db9a26006c98f03d0f96194c</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_73717_snow_demo_tasks" sys_domain="global" view="Default view">56382979db9a26006c98f03d0f961992</sys_ui_section>
+            <sys_ui_section caption="Demo Building Task" display_value="Demo Building Task" name="x_73717_snow_demo_tasks" sys_domain="global" view="Default view">56382979db9a26006c98f03d0f961992</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
             <sys_updated_on>2016-10-07 00:42:43</sys_updated_on>
         </sys_ui_form_section>
@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_73717_snow_demo_tasks" name="x_73717_snow_demo_tasks" sys_domain="global" view="Default view">43fd29f9db9a26006c98f03d0f96194c</sys_ui_form>
-            <sys_ui_section caption="Demo Task" display_value="Demo Task" name="x_73717_snow_demo_tasks" sys_domain="global" view="Default view">cbfd29f9db9a26006c98f03d0f96194b</sys_ui_section>
+            <sys_ui_section caption="Task Detail " display_value="Task Detail " name="x_73717_snow_demo_tasks" sys_domain="global" view="Default view">cbfd29f9db9a26006c98f03d0f96194b</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
             <sys_updated_on>2016-10-07 00:42:43</sys_updated_on>
         </sys_ui_form_section>
