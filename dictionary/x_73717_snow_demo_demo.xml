@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="pm_project" label="Demo" max_length="40" name="x_73717_snow_demo_demo" type="collection"/>
+    <element extends="pm_project" label="Demo" max_length="40" name="x_73717_snow_demo_demo" type="collection">
+        <element label="Demo Logo" max_length="40" name="demo_logo" type="user_image"/>
+    </element>
 </database>

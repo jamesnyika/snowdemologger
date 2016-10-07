@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Demo Timeline" section_id="ae3e1c8adb9e26006c98f03d0f96198a" sys_domain="global" table="x_73717_snow_demo_demo" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>3e3e1c8adb9e26006c98f03d0f96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>demo_logo</element>
+            <position>1</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>be3e1c8adb9e26006c98f03d0f96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_constraint</element>
+            <position>2</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>323e1c8adb9e26006c98f03d0f96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>schedule</element>
+            <position>3</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>b23e1c8adb9e26006c98f03d0f96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>4</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>363e1c8adb9e26006c98f03d0f96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>5</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>b63e1c8adb9e26006c98f03d0f96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>duration</element>
+            <position>6</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>3a3e1c8adb9e26006c98f03d0f96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>ba3e1c8adb9e26006c98f03d0f96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phase</element>
+            <position>8</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>3e3e1c8adb9e26006c98f03d0f96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>be3e1c8adb9e26006c98f03d0f96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_manager</element>
+            <position>10</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>323e1c8adb9e26006c98f03d0f961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>11</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>b23e1c8adb9e26006c98f03d0f961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>12</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>363e1c8adb9e26006c98f03d0f961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>13</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:45</sys_created_on>
+            <sys_id>b63e1c8adb9e26006c98f03d0f961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Demo Timeline</caption>
+            <header>false</header>
+            <name>x_73717_snow_demo_demo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:32:44</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae3e1c8adb9e26006c98f03d0f96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Demo Timeline</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Snow Demo Logger" source="x_73717_snow_demo">85c729b5db9a26006c98f03d0f96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Snow Demo Logger">85c729b5db9a26006c98f03d0f96195e</sys_scope>
+            <sys_update_name>sys_ui_section_ae3e1c8adb9e26006c98f03d0f96198a</sys_update_name>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:32:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

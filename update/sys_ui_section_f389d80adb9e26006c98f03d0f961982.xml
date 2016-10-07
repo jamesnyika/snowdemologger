@@ -5,13 +5,13 @@
             <element>short_description</element>
             <position>0</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2016-10-07 13:15:28</sys_created_on>
-            <sys_id>394a104adb9e26006c98f03d0f961951</sys_id>
+            <sys_created_on>2016-10-07 13:28:41</sys_created_on>
+            <sys_id>274dd48adb9e26006c98f03d0f961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Demo Header" display_value="Demo Header" name="x_73717_snow_demo_demo" sys_domain="global" view="689cd97dd7103100b7490ee60e610333">f389d80adb9e26006c98f03d0f961982</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:15:28</sys_updated_on>
+            <sys_updated_on>2016-10-07 13:28:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>cost</element>
             <position>1</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2016-10-07 13:15:28</sys_created_on>
-            <sys_id>b94a104adb9e26006c98f03d0f961951</sys_id>
+            <sys_created_on>2016-10-07 13:28:41</sys_created_on>
+            <sys_id>a74dd48adb9e26006c98f03d0f961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Demo Header" display_value="Demo Header" name="x_73717_snow_demo_demo" sys_domain="global" view="689cd97dd7103100b7490ee60e610333">f389d80adb9e26006c98f03d0f961982</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:15:28</sys_updated_on>
+            <sys_updated_on>2016-10-07 13:28:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>budget_cost</element>
             <position>2</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2016-10-07 13:15:28</sys_created_on>
-            <sys_id>3d4a104adb9e26006c98f03d0f961951</sys_id>
+            <sys_created_on>2016-10-07 13:28:41</sys_created_on>
+            <sys_id>2b4dd48adb9e26006c98f03d0f961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Demo Header" display_value="Demo Header" name="x_73717_snow_demo_demo" sys_domain="global" view="689cd97dd7103100b7490ee60e610333">f389d80adb9e26006c98f03d0f961982</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:15:28</sys_updated_on>
+            <sys_updated_on>2016-10-07 13:28:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>business_case</element>
             <position>3</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2016-10-07 13:15:28</sys_created_on>
-            <sys_id>bd4a104adb9e26006c98f03d0f961951</sys_id>
+            <sys_created_on>2016-10-07 13:28:41</sys_created_on>
+            <sys_id>ab4dd48adb9e26006c98f03d0f961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Demo Header" display_value="Demo Header" name="x_73717_snow_demo_demo" sys_domain="global" view="689cd97dd7103100b7490ee60e610333">f389d80adb9e26006c98f03d0f961982</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:15:28</sys_updated_on>
+            <sys_updated_on>2016-10-07 13:28:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2016-10-07 13:15:28</sys_created_on>
-            <sys_id>314a104adb9e26006c98f03d0f961952</sys_id>
+            <sys_created_on>2016-10-07 13:28:41</sys_created_on>
+            <sys_id>2f4dd48adb9e26006c98f03d0f961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Demo Header" display_value="Demo Header" name="x_73717_snow_demo_demo" sys_domain="global" view="689cd97dd7103100b7490ee60e610333">f389d80adb9e26006c98f03d0f961982</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:15:28</sys_updated_on>
+            <sys_updated_on>2016-10-07 13:28:41</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>description</element>
             <position>5</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2016-10-07 13:15:28</sys_created_on>
-            <sys_id>b14a104adb9e26006c98f03d0f961952</sys_id>
+            <sys_created_on>2016-10-07 13:28:41</sys_created_on>
+            <sys_id>af4dd48adb9e26006c98f03d0f961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Demo Header" display_value="Demo Header" name="x_73717_snow_demo_demo" sys_domain="global" view="689cd97dd7103100b7490ee60e610333">f389d80adb9e26006c98f03d0f961982</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:15:28</sys_updated_on>
+            <sys_updated_on>2016-10-07 13:28:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>work_start</element>
             <position>6</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2016-10-07 13:15:28</sys_created_on>
-            <sys_id>354a104adb9e26006c98f03d0f961952</sys_id>
+            <sys_created_on>2016-10-07 13:28:41</sys_created_on>
+            <sys_id>234dd48adb9e26006c98f03d0f961937</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Demo Header" display_value="Demo Header" name="x_73717_snow_demo_demo" sys_domain="global" view="689cd97dd7103100b7490ee60e610333">f389d80adb9e26006c98f03d0f961982</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:15:28</sys_updated_on>
+            <sys_updated_on>2016-10-07 13:28:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>work_end</element>
             <position>7</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2016-10-07 13:15:28</sys_created_on>
-            <sys_id>b54a104adb9e26006c98f03d0f961952</sys_id>
+            <sys_created_on>2016-10-07 13:28:41</sys_created_on>
+            <sys_id>a34dd48adb9e26006c98f03d0f961937</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Demo Header" display_value="Demo Header" name="x_73717_snow_demo_demo" sys_domain="global" view="689cd97dd7103100b7490ee60e610333">f389d80adb9e26006c98f03d0f961982</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:15:28</sys_updated_on>
+            <sys_updated_on>2016-10-07 13:28:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,27 @@
             <element>goal</element>
             <position>8</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2016-10-07 13:15:28</sys_created_on>
-            <sys_id>394a104adb9e26006c98f03d0f961952</sys_id>
+            <sys_created_on>2016-10-07 13:28:41</sys_created_on>
+            <sys_id>274dd48adb9e26006c98f03d0f961937</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Demo Header" display_value="Demo Header" name="x_73717_snow_demo_demo" sys_domain="global" view="689cd97dd7103100b7490ee60e610333">f389d80adb9e26006c98f03d0f961982</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:15:28</sys_updated_on>
+            <sys_updated_on>2016-10-07 13:28:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>demo_logo</element>
+            <position>9</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:28:41</sys_created_on>
+            <sys_id>a74dd48adb9e26006c98f03d0f961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Demo Header" display_value="Demo Header" name="x_73717_snow_demo_demo" sys_domain="global" view="689cd97dd7103100b7490ee60e610333">f389d80adb9e26006c98f03d0f961982</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:28:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
