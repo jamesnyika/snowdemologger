@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="43fd29f9db9a26006c98f03d0f96194c" sys_domain="global" table="x_73717_snow_demo_tasks" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 00:42:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7fd29f9db9a26006c98f03d0f96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_73717_snow_demo_tasks" name="x_73717_snow_demo_tasks" sys_domain="global" view="Default view">43fd29f9db9a26006c98f03d0f96194c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_73717_snow_demo_tasks" sys_domain="global" view="Default view">56382979db9a26006c98f03d0f961992</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 00:42:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 00:42:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bfd29f9db9a26006c98f03d0f96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_73717_snow_demo_tasks" name="x_73717_snow_demo_tasks" sys_domain="global" view="Default view">43fd29f9db9a26006c98f03d0f96194c</sys_ui_form>
+            <sys_ui_section caption="Demo Task" display_value="Demo Task" name="x_73717_snow_demo_tasks" sys_domain="global" view="Default view">cbfd29f9db9a26006c98f03d0f96194b</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 00:42:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_73717_snow_demo_tasks</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 00:42:43</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43fd29f9db9a26006c98f03d0f96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_73717_snow_demo_tasks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Snow Demo Logger" source="x_73717_snow_demo">85c729b5db9a26006c98f03d0f96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Snow Demo Logger">85c729b5db9a26006c98f03d0f96195e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_43fd29f9db9a26006c98f03d0f96194c</sys_update_name>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 00:42:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

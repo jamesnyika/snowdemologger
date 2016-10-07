@@ -1,4 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Demo Tasks" max_length="40" name="x_73717_snow_demo_tasks" type="collection"/>
+    <element extends="task" label="Demo Tasks" max_length="40" name="x_73717_snow_demo_tasks" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Phase" mandatory="true" max_length="40" name="u_demotask_cat" type="string">
+            <choice>
+                <element label="Preparation &amp; Understanding" sequence="0" value="Preparation &amp; Understanding"/>
+                <element label="Design" sequence="1" value="Design"/>
+                <element label="Configuration &amp; Build" sequence="2" value="Configuration &amp; Build"/>
+                <element label="Test" sequence="3" value="Test"/>
+                <element label="Release" sequence="4" value="Release"/>
+            </choice>
+        </element>
+        <element label="Challenges Encountered" max_length="4000" name="u_demotask_challenges" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Application Name" mandatory="true" max_length="300" name="u_demotask_demoname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Design Workload" mandatory="true" max_length="40" name="u_demotask_design" type="string">
+            <choice>
+                <element label="No Prior Design Needed" sequence="0" value="No Prior Design Needed"/>
+                <element label="Required Some Design Consideration" sequence="1" value="Required Some Design Consideration"/>
+                <element label="Design Heavy" sequence="2" value="Design Heavy"/>
+            </choice>
+        </element>
+        <element label="Ended On" max_length="40" name="u_demotask_ended" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Focus Area" mandatory="true" max_length="40" name="u_demotask_focusarea" type="string">
+            <choice>
+                <element label="Business &amp; Rules Related" sequence="0" value="Business &amp; Rules Related"/>
+                <element label="Data Management Related" sequence="1" value="Data Management Related"/>
+                <element label="UI &amp; Experience Related" sequence="2" value="UI &amp; Experience Related"/>
+                <element label="Project Management &amp; Requirements Related" sequence="3" value="Project Management &amp; Requirements Related"/>
+                <element label="Architectural Component Focused" sequence="4" value="Architectural Component Focused"/>
+                <element label="Security and Authentication Related" sequence="5" value="Security and Authentication Related"/>
+                <element label="Integration" sequence="6" value="Integration"/>
+            </choice>
+        </element>
+        <element label="Started On" mandatory="true" max_length="40" name="u_demotask_startdate" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Technical Workload" mandatory="true" max_length="40" name="u_demotask_technicalworkload" type="string">
+            <choice>
+                <element label="None" sequence="0" value="None"/>
+                <element label="Configuration Light" sequence="1" value="Configuration Light"/>
+                <element label="Configuration Heavy" sequence="2" value="Configuration Heavy"/>
+                <element label="Light Scripting" sequence="3" value="Light Scripting"/>
+                <element label="Technically Demanding" sequence="4" value="Technically Demanding"/>
+            </choice>
+        </element>
+    </element>
 </database>
