@@ -21,27 +21,13 @@
             <sys_created_on>2016-10-07 13:32:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>623e1c8adb9e26006c98f03d0f96198c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_73717_snow_demo_demo" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">6a3e1c8adb9e26006c98f03d0f96198b</sys_ui_form>
-            <sys_ui_section caption="Demo Timeline" display_value="Demo Timeline" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">ae3e1c8adb9e26006c98f03d0f96198a</sys_ui_section>
-            <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:32:44</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2016-10-07 13:32:44</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>263e1c8adb9e26006c98f03d0f96198c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_73717_snow_demo_demo" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">6a3e1c8adb9e26006c98f03d0f96198b</sys_ui_form>
             <sys_ui_section caption="Description and Business Case" display_value="Description and Business Case" name="x_73717_snow_demo_demo" sys_domain="global" view="Default view">e23e1c8adb9e26006c98f03d0f96198b</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2016-10-07 13:32:44</sys_updated_on>
+            <sys_updated_on>2016-10-07 13:36:42</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_73717_snow_demo_demo</name>
