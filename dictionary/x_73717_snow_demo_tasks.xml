@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="task" label="Demo Tasks" max_length="40" name="x_73717_snow_demo_tasks" type="collection">
+        <element label="Demo" mandatory="true" max_length="32" name="demo" reference="x_73717_snow_demo_demo" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Phase" mandatory="true" max_length="40" name="u_demotask_cat" type="string">
             <choice>
                 <element label="Preparation &amp; Understanding" sequence="0" value="Preparation &amp; Understanding"/>

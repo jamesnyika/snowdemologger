@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_73717_snow_demo_demo" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Demo - Default view" name="x_73717_snow_demo_demo" related_list="NULL" sys_domain="global" view="Default view">7e9b584adb9e26006c98f03d0f961961</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_73717_snow_demo_tasks.demo</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:21:17</sys_created_on>
+            <sys_id>b29b584adb9e26006c98f03d0f961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:21:17</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Demo - Default view" name="x_73717_snow_demo_demo" related_list="NULL" sys_domain="global" view="Default view">7e9b584adb9e26006c98f03d0f961961</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:01efc56813f3d640dc79b9304244b0cb</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:21:17</sys_created_on>
+            <sys_id>769b584adb9e26006c98f03d0f961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:21:17</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Demo - Default view</calculated_name>
+            <filter/>
+            <name>x_73717_snow_demo_demo</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2016-10-07 13:21:17</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e9b584adb9e26006c98f03d0f961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Demo - Default view</sys_name>
+            <sys_package display_value="Snow Demo Logger" source="x_73717_snow_demo">85c729b5db9a26006c98f03d0f96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Snow Demo Logger">85c729b5db9a26006c98f03d0f96195e</sys_scope>
+            <sys_update_name>sys_ui_related_x_73717_snow_demo_demo_null</sys_update_name>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2016-10-07 13:21:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
